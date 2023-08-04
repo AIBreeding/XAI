@@ -29,6 +29,10 @@ cd GxE
 conda install --yes --file requirements.txt
 ```
 
+Follow the instructions in [data directory](data/README.md) to get dataset files.
+
+Follow the instructions in [model/G2Pmodel](model/G2Pmodel/README.md) to get pre-trained models.
+
 ## Usage
 
 ### Hyperparameter optimization
