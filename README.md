@@ -16,7 +16,7 @@ This is a Python implementation of our paper:
 Clone repository: 
 
 ```bash
-git clone https://github.com/AIBreeding/GxE.git
+git clone https://github.com/AIBreeding/XAI.git
 ```
 Create environment:
 ```bash
